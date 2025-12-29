@@ -8,7 +8,7 @@
 
 - 日本总务省统计局（Statistics Bureau of Japan）
 - Labour Force Survey, Japan
-- 时间范围：1970s–2000s
+- 时间范围：1970s–2010s
 - 主要变量：年份、年龄段、性别、失业率
 
 ---
